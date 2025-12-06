@@ -1,2 +1,2 @@
 # Machine-Learning
-Various codes and workflows to explore various ML algorithms 
+Codes and workflows to explore various ML algorithms 
